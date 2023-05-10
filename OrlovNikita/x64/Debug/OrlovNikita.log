@@ -1,0 +1,5 @@
+﻿  OrlovNikita.cpp
+C:\Users\Взрослая академия\Desktop\OrlovNikita\OrlovNikita\OrlovNikita.cpp(43,12): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Desktop\OrlovNikita\OrlovNikita\OrlovNikita.cpp(62,11): warning C4305: return: усечение из "int" в "bool"
+C:\Users\Взрослая академия\Desktop\OrlovNikita\OrlovNikita\OrlovNikita.cpp(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OrlovNikita.vcxproj -> C:\Users\Взрослая академия\Desktop\OrlovNikita\OrlovNikita\x64\Debug\OrlovNikita.exe
